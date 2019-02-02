@@ -16,3 +16,7 @@
 
 ## [Contact Info](https://www.math.mcmaster.ca/index.php/news/65-/professor/266-childs-aaron.html)
 
+## Alumna 
+*Paul Harrison
+
+![Image of Paul Harrison](http://www.chemistry.mcmaster.ca/harrison/phmh.jpg)

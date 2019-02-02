@@ -1,4 +1,4 @@
-# McMaster Git Society :computer::computer_mouse:
+# McMaster ~~MATLAB~~ Markdown Society :computer::computer_mouse:
 ## Founder
    **Jay Brodeur**
 ## Names of Contributers 

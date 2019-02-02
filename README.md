@@ -1,4 +1,4 @@
-# Sample Webpage
+# McMaster Git Society
 ## Names of Contributers 
 1. Amir
 2. Spencer

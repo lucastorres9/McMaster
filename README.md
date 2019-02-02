@@ -18,5 +18,5 @@
 
 ## Alumna 
 *Paul Harrison
-http://www.chemistry.mcmaster.ca/harrison/phmh.jpg
+![Image of McMaster] (http://www.chemistry.mcmaster.ca/harrison/phmh.jpg)
 

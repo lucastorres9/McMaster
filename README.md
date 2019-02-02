@@ -1,10 +1,9 @@
 # McMaster Git Society :computer::computer_mouse:
 ## Founder
-   Jay Brodeur
+   **Jay Brodeur**
 ## Names of Contributers 
 1. Amir
-2. Spencer
-3. Lucas
+2. Lucas
 
 ## **Operating Headquarters**
 ![Image of McMaster](https://s-ec.bstatic.com/images/hotel/max1024x768/896/89669587.jpg)

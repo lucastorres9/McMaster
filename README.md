@@ -1,5 +1,6 @@
 # McMaster Git Society :computer::computer_mouse:
-##Founder
+## Founder
+   Jay Brodeur
 ## Names of Contributers 
 1. Amir
 2. Spencer
